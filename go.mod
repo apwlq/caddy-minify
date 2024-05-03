@@ -1,4 +1,4 @@
-module github.com/pmh-only/caddy-minify
+module github.com/apwlq/caddy-minify
 
 go 1.21.4
 
